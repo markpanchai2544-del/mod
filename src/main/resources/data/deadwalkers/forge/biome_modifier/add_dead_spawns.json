@@ -1,0 +1,36 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#minecraft:is_overworld",
+  "spawners": [
+    {
+      "type": "deadwalkers:walker",
+      "weight": 100,
+      "minCount": 2,
+      "maxCount": 6
+    },
+    {
+      "type": "deadwalkers:runner",
+      "weight": 35,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "type": "deadwalkers:spitter",
+      "weight": 20,
+      "minCount": 1,
+      "maxCount": 2
+    },
+    {
+      "type": "deadwalkers:bloater",
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "type": "deadwalkers:crawler",
+      "weight": 35,
+      "minCount": 1,
+      "maxCount": 4
+    }
+  ]
+}
