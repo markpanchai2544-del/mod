@@ -1,0 +1,12 @@
+{
+  "entity.deadwalkers.walker": "Walker",
+  "item.deadwalkers.walker_spawn_egg": "Walker Spawn Egg",
+  "entity.deadwalkers.runner": "Runner",
+  "item.deadwalkers.runner_spawn_egg": "Runner Spawn Egg",
+  "entity.deadwalkers.spitter": "Spitter",
+  "item.deadwalkers.spitter_spawn_egg": "Spitter Spawn Egg",
+  "entity.deadwalkers.bloater": "Bloater",
+  "item.deadwalkers.bloater_spawn_egg": "Bloater Spawn Egg",
+  "entity.deadwalkers.crawler": "Crawler",
+  "item.deadwalkers.crawler_spawn_egg": "Crawler Spawn Egg"
+}
